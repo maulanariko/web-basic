@@ -1,7 +1,8 @@
 {
     "workbench.colorTheme": "One Dark Pro Flat",
     "workbench.iconTheme": "vscode-icons",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
     "terminal.integrated.defaultProfile.linux": "zsh",
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
