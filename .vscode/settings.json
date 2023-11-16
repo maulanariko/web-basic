@@ -23,8 +23,8 @@
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
   "workbench.activityBar.location": "top",
+  "window.commandCenter": false,
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
-  "editor.cursorStyle": "block",
-  "editor.renderLineHighlight": "none"
+  "editor.tabSize": 2
 }
