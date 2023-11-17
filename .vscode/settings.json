@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Tokyo Night",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "material-icon-theme",
   "editor.lineHeight": 26,
   "files.autoSave": "onFocusChange",
@@ -17,8 +17,6 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.fontFamily": "Jetbrains Mono",
-  "editor.fontLigatures": true,
   "terminal.integrated.defaultProfile.linux": "zsh",
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
